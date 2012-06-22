@@ -40,6 +40,7 @@ Options:
   -v, --verbose   When reading from stdin, echo input back to stdout
   -h, --help      You looking at it
 
+See <https://github.com/tim-smart/gista> to get started.
 """
 
 # Option parsing is done with `nopt` - a handy library sculpted by
